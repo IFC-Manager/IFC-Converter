@@ -1,5 +1,5 @@
 # IFC-Converter
-Tool that converts IFC files to Excel Files
+Tool that converts IFC files to Excel files
 
 # Installation
 - Download the files
